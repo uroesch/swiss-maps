@@ -1,0 +1,75 @@
+DISCLAIMER: 
+  This data is a modification of the offical 2015 set from swisstopo. 
+  This is not an offically sanctioned modification!
+  The data is proviced as is!
+
+-------------------------------------------------------------------------
+
+The modifications were made with QGIS based on the data from the BFS 
+http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/03.Document.198648.pdf 
+-> be-t-00.04-mmg-15.pdf
+
+-------------------------------------------------------------------------
+
+Changelog:
+
+New municipality              | Old municipalities 
+------------------------------+------------------------------------------
+Illnau-Effretikon (296)       | Illnau-Effretikon (174) 
+                              | Kyburg (175) 
+------------------------------+------------------------------------------
+Rapperswil (BE) (310)         | Bangerten (532) 
+                              | Rapperswil (BE) (310)
+------------------------------+------------------------------------------
+Ersigen (405)                 | Niederösch (417)
+                              | Oberösch (419) 
+                              | Ersigen (405)
+------------------------------+------------------------------------------
+Seeberg (988)                 | Hermiswil (978)
+                              | Seeberg (988) 
+------------------------------+------------------------------------------
+Belmont-Broye (2053)          | Domdidier (2013)
+                              | Dompierre (FR) (2014)
+                              | Léchelles (2024)
+                              | Russy (2040) 
+------------------------------+------------------------------------------
+Belfaux (2175)                | Autafond (2172) 
+                              | Belfaux (2175) 
+------------------------------+------------------------------------------
+Gibloux (2236)                | Corpataux-Magnedens (2184)
+                              | Farvagny (2192)
+                              | Rossens (FR) (2222)
+                              | Le Glèbe (2223)
+                              | Vuisternens-en-Ogoz (2231) 
+------------------------------+------------------------------------------
+Murten (2275)                 | Courlevon (2251)
+                              | Jeuss (2264)
+                              | Lurtigen (2270)
+                              | Murten (2275)
+                              | Salvenach (2277) 
+------------------------------+------------------------------------------
+Mont-Vully (2284)             | Bas-Vully (2280)
+                              | Haut-Vully (2281) 
+------------------------------+------------------------------------------
+Surses (3543)                 | Bivio (3531)
+                              | Cunter (3532)
+                              | Marmorera (3533)
+                              | Mulegns (3534)
+                              | Riom-Parsonz (3536)
+                              | Salouf (3538)
+                              | Savognin (3539)
+                              | Sur (3540)
+                              | Tinizong-Rona (3541)
+------------------------------+------------------------------------------
+Obersaxen Mundaun (3988)      | Obersaxen (3612)
+                              | Mundaun (3617) 
+------------------------------+------------------------------------------
+Klosters-Serneus (3871)       | Klosters-Serneus (3871)
+                              | Saas (3883) 
+------------------------------+------------------------------------------
+Luzein (3891)                 | Luzein (3891)
+                              | St. Antönien (3893) 
+------------------------------+------------------------------------------
+Rochefort (6413)              | Brot-Dessous (6405)
+                              | Rochefort (6413) 
+------------------------------+------------------------------------------
